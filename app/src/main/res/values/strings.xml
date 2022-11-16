@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlacesInTheWorld</string>
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shows">Shows</string>
+    <string name="museums">Museums</string>
+    <string name="pointsofinterest">Points of interest</string>
+    <string name="bookyourexperience">Book your experience:</string>
+</resources>
